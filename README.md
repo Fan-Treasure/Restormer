@@ -1,5 +1,3 @@
-# Restormer
-Reproduce of the CVPR 2022 paper "Restormer: Efficient Transformer for High-Resolution Image Restoration"
 # Restormer论文复现
 
 <img src="./imgs/title.png" alt="car"  width = "800"/>
